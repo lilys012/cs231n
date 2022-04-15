@@ -1,2 +1,3 @@
 # cs231n
-Stanford cs231n Spring 2021
+Spring 2021
+Link: [cs231n](https://cs231n.github.io)
